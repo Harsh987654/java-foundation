@@ -1,0 +1,17 @@
+Day08 - java Exception Handling 
+
+Topicd Covered
+- try-catch-finally
+- Multiple catch blocks
+- throw and throws
+- Custom Exception
+- Checked vs Unchecked Exception
+
+What I Learned
+- How Java handles runtime errors
+- Differences between checked and unchecked exceptions
+- How to create my own exception class
+
+  Run
+  Javac Main.java
+  Java Main
